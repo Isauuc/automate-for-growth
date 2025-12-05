@@ -16,6 +16,22 @@ Welcome to your content automation journey! If you're completely new to social m
 
 <div align="center">
 
+### 🎁 Special Offer: Get Started Today!
+
+**Use Coupon Code: `WELCOME15`** for **15% off** your first 3 months!
+
+**[👉 Get Started for Free at ViralWave Studio →](https://viralwavestudio.com)**
+
+> 💡 **Free Account Available:** Start with a free account or buy tokens without a subscription!
+
+**[🚀 Learn More About ViralWave Studio →](../1-ai-content-generation-tool/)**
+
+---
+
+</div>
+
+<div align="center">
+
 ### 📋 What You'll Learn in This Module
 
 | Topic | What You'll Master |
@@ -203,11 +219,11 @@ Plus, she posted 3x more content, which led to 2x more sales. Her ROI was incred
 
 ## Introduction to Your Content Automation Platform
 
-Think of this platform as your personal content creation assistant that never sleeps, never gets tired, and always follows your brand guidelines.
+Think of [ViralWave Studio](https://viralwavestudio.com) as your personal content creation assistant that never sleeps, never gets tired, and always follows your brand guidelines.
 
 ### Platform Overview
 
-**What This Platform Does:**
+**What ViralWave Studio Does:**
 Imagine having a team of content creators working for you 24/7:
 - A writer who knows your brand voice
 - A graphic designer who creates visuals
@@ -215,10 +231,12 @@ Imagine having a team of content creators working for you 24/7:
 - A scheduler who posts at optimal times
 - An analyst who tracks what's working
 
-That's what this platform does, all in one place.
+That's what [ViralWave Studio](https://viralwavestudio.com) does, all in one place.
 
-**Visit the Platform:**
-Go to https://viralwavestudio.com to see it in action. Don't worry about understanding everything right away - we'll walk through each feature step by step.
+**Visit ViralWave Studio:**
+Go to [https://viralwavestudio.com](https://viralwavestudio.com) to see it in action. Don't worry about understanding everything right away - we'll walk through each feature step by step.
+
+> 💡 **Special Offer:** Use coupon code **WELCOME15** for 15% off your first 3 months on any plan! [Get started for free →](https://viralwavestudio.com)
 
 ### Feature Walkthrough (Beginner-Friendly Explanations)
 
@@ -231,7 +249,7 @@ Let's break down each feature in simple terms:
 
 **Real example:** 
 - You want to post about "time management tips" 
-- You tell the platform: "Create 10 posts about time management tips"
+- You tell [ViralWave Studio](https://viralwavestudio.com): "Create 10 posts about time management tips"
 - It generates 10 different posts with different angles
 - You review them, make small edits, and schedule them
 - Done in 30 minutes instead of 10 hours
@@ -243,19 +261,19 @@ Let's break down each feature in simple terms:
 
 **Real example:**
 - You write: "A person working at a laptop in a modern office, professional setting"
-- The platform creates a 10-second professional video
+- [ViralWave Studio](https://viralwavestudio.com) creates a 10-second professional video
 - You can use it immediately or edit it
 - Cost: About $0.34 (vs. $100+ for a videographer)
 
 #### 3. Brand Authority
-**What it is:** Automatically adds your face, logo, or brand elements to every post.
+**What it is:** Upload 3 images of yourself, and every time the AI post generator creates posts with images, it automatically places your images in each generated image.
 
-**Why it matters:** People recognize brands they see consistently. This builds trust and authority automatically.
+**Why it matters:** People recognize brands they see consistently. When your personal images appear in every AI-generated post image, it builds trust and authority automatically.
 
 **Real example:**
-- You upload 3 photos of yourself
-- Every post automatically includes your photo in a professional way
-- After 3 months, people recognize your brand instantly
+- You upload 3 photos of yourself to Brand Authority settings
+- Every time AI generates a post with an image, your photos are automatically placed in that image
+- After 3 months, people recognize your brand instantly because they see your images consistently
 - You become the "go-to" person in your niche
 
 #### 4. Multi-Platform Publishing
@@ -276,7 +294,7 @@ Let's break down each feature in simple terms:
 
 **Real example:**
 - You want a blog post about "How to Start a Side Hustle"
-- The platform generates a complete, SEO-optimized article
+- [ViralWave Studio](https://viralwavestudio.com) generates a complete, SEO-optimized article
 - You add your personal touches
 - Publish to your website
 - It drives traffic for months
@@ -293,7 +311,7 @@ Let's break down each feature in simple terms:
 - You grow faster
 
 #### 7. API Access
-**What it is:** For advanced users - connects the platform to other tools you use.
+**What it is:** For advanced users - connects [ViralWave Studio](https://viralwavestudio.com) to other tools you use via the [Sora API](https://viralwavestudio.com/sora-api).
 
 **Why it matters:** If you use other business tools, you can connect them for even more automation.
 
@@ -311,6 +329,7 @@ Let's break down each feature in simple terms:
 - You have 1-2 social media accounts
 - You want to test automation
 - **Cost:** Most affordable option
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 
 **Real scenario:** "I'm a new fitness coach with 200 Instagram followers. I want to post 3 times per week to grow my audience."
 
@@ -321,6 +340,7 @@ Let's break down each feature in simple terms:
 - You want video generation
 - You want brand authority features
 - **Cost:** Mid-range, best value
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 
 **Real scenario:** "I'm a business consultant with 1,000 followers. I want to post daily on Instagram, Facebook, and LinkedIn. I also want to create videos."
 
@@ -330,11 +350,14 @@ Let's break down each feature in simple terms:
 - You need API access
 - You create hundreds of posts per month
 - **Cost:** Highest tier, but best for volume
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 
 **Real scenario:** "I run a marketing agency managing 10 client accounts. I need to create 500+ posts per month."
 
 **My Recommendation for Beginners:**
 Start with Starter or Pro. You can always upgrade when you need more. Don't pay for features you won't use yet.
+
+> 💡 **Free Account Available:** You can start with a free account at [ViralWave Studio](https://viralwavestudio.com) or buy tokens without a subscription! [Get started →](https://viralwavestudio.com)
 
 #### Understanding the Token System (Simple Explanation)
 
@@ -371,63 +394,136 @@ If you have 1,000 tokens per month:
 
 Let's create your account together. Follow these steps exactly:
 
+---
+
 #### Step 1: Visit the Platform
-1. Open your web browser (Chrome, Safari, Firefox - any works)
-2. Go to: https://viralwavestudio.com
-3. Look for a button that says "Sign Up" or "Get Started" (usually in the top right corner)
-4. Click it
+
+<div align="left">
+
+1. 🌐 Open your web browser (Chrome, Safari, Firefox - any works)
+2. 🔗 Go to: [https://viralwavestudio.com](https://viralwavestudio.com)
+3. 👀 Look for a button that says "Sign Up" or "Get Started" (usually in the top right corner)
+4. 👆 Click it
+
+</div>
+
+<div align="center">
 
 **What you'll see:** A sign-up page asking for your information
 
+---
+
+</div>
+
 #### Step 2: Choose Your Plan
-1. You'll see the three plans (Starter, Pro, Powerhouse)
-2. **For beginners:** I recommend starting with Starter or Pro
-3. Click "Select" or "Choose Plan" on your preferred option
-4. Don't worry - you can change this later
+
+<div align="left">
+
+1. 📋 You'll see the three plans (Starter, Pro, Powerhouse)
+2. 💡 **For beginners:** I recommend starting with Starter or Pro
+3. ✅ Click "Select" or "Choose Plan" on your preferred option
+4. 🔄 Don't worry - you can change this later
+
+</div>
+
+<div align="center">
 
 **What you'll see:** A form to enter your payment information
 
+---
+
+</div>
+
 #### Step 3: Create Your Account
-1. **Enter your email address**
-   - Use an email you check regularly
-   - This is where you'll get important updates
-   - Example: yourname@gmail.com or yourname@yourbusiness.com
 
-2. **Create a secure password**
-   - At least 8 characters
-   - Mix of letters, numbers, and symbols
-   - Don't use "password123" (be smarter than that!)
-   - Write it down somewhere safe, or use a password manager
+**1. Enter your email address**
 
-3. **Verify your email**
-   - Check your email inbox
-   - Look for an email from the platform
-   - Click the verification link
-   - If you don't see it, check your spam folder
+<div align="left">
 
-**Common Beginner Mistake:** Forgetting to verify email. The platform needs this to send you important notifications.
+- 📧 Use an email you check regularly
+- 📬 This is where you'll get important updates
+- 💡 Example: yourname@gmail.com or yourname@yourbusiness.com
+
+</div>
+
+**2. Create a secure password**
+
+<div align="left">
+
+- 🔒 At least 8 characters
+- 🔤 Mix of letters, numbers, and symbols
+- ❌ Don't use "password123" (be smarter than that!)
+- 📝 Write it down somewhere safe, or use a password manager
+
+</div>
+
+**3. Verify your email**
+
+<div align="left">
+
+- 📬 Check your email inbox
+- 🔍 Look for an email from the platform
+- 🔗 Click the verification link
+- 📁 If you don't see it, check your spam folder
+
+</div>
+
+<div align="center">
+
+> ⚠️ **Common Beginner Mistake:** Forgetting to verify email. The platform needs this to send you important notifications.
+
+---
+
+</div>
 
 #### Step 4: Complete Your Profile
-1. **Add your name**
-   - Your real name or business name
-   - This helps the platform personalize your experience
 
-2. **Add business information (optional but recommended)**
-   - What industry are you in?
-   - What's your business type?
-   - This helps generate better content for you
+**1. Add your name**
 
-3. **Upload a profile picture**
-   - Use a clear, professional photo
-   - This appears in your account
-   - Can be your face or logo
+<div align="left">
 
-4. **Set your timezone**
-   - Important for scheduling posts
-   - Select the timezone where you (or your audience) are located
-   - Example: "Eastern Time (US & Canada)" or "GMT"
+- 👤 Your real name or business name
+- 💡 This helps the platform personalize your experience
 
-**Why this matters:** If you schedule a post for 2pm but your timezone is wrong, it might post at the wrong time.
+</div>
+
+**2. Add business information** *(optional but recommended)*
+
+<div align="left">
+
+- 🏢 What industry are you in?
+- 💼 What's your business type?
+- ✨ This helps generate better content for you
+
+</div>
+
+**3. Upload a profile picture**
+
+<div align="left">
+
+- 📸 Use a clear, professional photo
+- 👁️ This appears in your account
+- 🖼️ Can be your face or logo
+
+</div>
+
+**4. Set your timezone**
+
+<div align="left">
+
+- ⏰ Important for scheduling posts
+- 🌍 Select the timezone where you (or your audience) are located
+- 💡 Example: "Eastern Time (US & Canada)" or "GMT"
+
+</div>
+
+<div align="center">
+
+> ⚠️ **Why this matters:** If you schedule a post for 2pm but your timezone is wrong, it might post at the wrong time.
+
+---
+
+</div>
 
 ### Connecting Social Media Accounts (Detailed Guide)
 
@@ -715,7 +811,7 @@ These settings make your life easier. Let's set them up right from the start.
 - **Custom**: You set specific times
 - **Auto**: Platform decides
 
-**Recommendation for beginners:** Use "Best Times" - the platform knows when your audience is most active
+**Recommendation for beginners:** Use "Best Times" - [ViralWave Studio](https://viralwavestudio.com) knows when your audience is most active
 
 **Time Zone Configuration:**
 - Set to your primary timezone
@@ -747,7 +843,7 @@ These settings make your life easier. Let's set them up right from the start.
 ## Common Beginner Questions Answered
 
 **Q: Do I need to know coding or be tech-savvy?**
-A: Not at all! The platform is designed for non-technical users. If you can use Instagram, you can use this.
+A: Not at all! [ViralWave Studio](https://viralwavestudio.com) is designed for non-technical users. If you can use Instagram, you can use this. [Get started with a free account →](https://viralwavestudio.com)
 
 **Q: Will my content look automated and fake?**
 A: No! When set up correctly, your content will sound authentic and match your brand voice. The key is setting up your brand voice properly (which we just covered).

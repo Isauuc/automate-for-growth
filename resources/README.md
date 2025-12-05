@@ -12,11 +12,25 @@ This section contains all the templates, checklists, code examples, and addition
 
 ### Main Resources
 
-- **Main Platform**: https://viralwavestudio.com
-- **Sora API Documentation**: https://viralwavestudio.com/sora-api
-- **Pricing Information**: https://viralwavestudio.com/subscriptions
-- **Features Overview**: https://viralwavestudio.com/#features
-- **FAQ**: https://viralwavestudio.com/#faq
+- **Main Platform**: [https://viralwavestudio.com](https://viralwavestudio.com)
+- **Sora API Documentation**: [https://viralwavestudio.com/sora-api](https://viralwavestudio.com/sora-api)
+- **Pricing Information**: [https://viralwavestudio.com/subscriptions](https://viralwavestudio.com/subscriptions)
+- **Features Overview**: [https://viralwavestudio.com/#features](https://viralwavestudio.com/#features)
+- **FAQ**: [https://viralwavestudio.com/#faq](https://viralwavestudio.com/#faq)
+
+### 🎁 Special Offer
+
+**Use Coupon Code: `WELCOME15`**
+
+Get **15% off each month** for your first 3 months on Starter, Pro, or Powerhouse plans!
+
+**[👉 Get Started for Free →](https://viralwavestudio.com)**
+
+> 💡 **Note:** You can start with a free account or buy tokens without a subscription!
+
+### 📚 Learn More
+
+- **[🚀 #1 AI Content Generation Tool →](../1-ai-content-generation-tool/)** - Complete guide to ViralWave Studio
 
 ## Content Templates
 

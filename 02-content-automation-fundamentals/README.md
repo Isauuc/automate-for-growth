@@ -148,7 +148,7 @@ Bulk generation is like having a content creation factory. Instead of making one
 #### Your First Bulk Generation Session
 
 **Step 1: Navigate to Bulk Generation**
-1. Log into your platform
+1. Log into [ViralWave Studio](https://viralwavestudio.com)
 2. Look for "Create Content" or "Generate" in the menu
 3. Click "Bulk Generate" or "Generate Multiple Posts"
 4. You'll see a form
@@ -186,7 +186,7 @@ Enter what you want to create content about. Be specific!
 **Target Platform:**
 - Select which platform(s) you're creating for
 - Instagram, Facebook, LinkedIn, etc.
-- The platform will optimize for that platform's style
+- [ViralWave Studio](https://viralwavestudio.com) will optimize for that platform's style
 
 **Content Variations:**
 - Do you want all posts to be similar?
@@ -196,7 +196,7 @@ Enter what you want to create content about. Be specific!
 **Step 4: Generate Your Content**
 
 1. Click "Generate" or "Create Posts"
-2. Wait 30-60 seconds (the platform is working!)
+2. Wait 30-60 seconds ([ViralWave Studio](https://viralwavestudio.com) is working!)
 3. You'll see your posts appear
 
 **What You'll See:**
@@ -486,141 +486,363 @@ Your social media should have similar "topics" you consistently talk about. Thes
 
 ### Identifying Your 3-5 Core Topics (Step-by-Step Guide)
 
+---
+
 #### Step 1: Analyze Your Expertise
 
+<div align="center">
+
 **Ask yourself:**
-- What do I know better than most people?
-- What problems can I solve?
-- What do people ask me about?
-- What am I passionate about?
 
-**Exercise:**
-Write down 10 things you're good at or know a lot about. Don't overthink it - just write.
+</div>
 
-**Example (Fitness Coach):**
-1. Workout routines
-2. Nutrition
-3. Motivation
-4. Injury prevention
-5. Home workouts
-6. Meal prep
-7. Weight loss
-8. Strength training
-9. Cardio
-10. Recovery
+<div align="left">
 
-**Step 2: Research Your Audience**
+- 🧠 What do I know better than most people?
+- 🔧 What problems can I solve?
+- 💬 What do people ask me about?
+- ❤️ What am I passionate about?
 
-**Where to look:**
-- Comments on your posts
-- Questions in your DMs
-- What competitors' audiences ask
-- Industry forums
-- Social media groups
+</div>
 
-**Questions to answer:**
-- What do they struggle with?
-- What questions do they have?
-- What content do they engage with?
-- What problems do they face?
+---
+
+<div align="center">
+
+**📝 Exercise**
+
+</div>
+
+Write down **10 things** you're good at or know a lot about. Don't overthink it - just write.
+
+<div align="center">
+
+**Example: Fitness Coach**
+
+</div>
+
+<div align="left">
+
+1. 💪 Workout routines
+2. 🥗 Nutrition
+3. 🎯 Motivation
+4. 🛡️ Injury prevention
+5. 🏠 Home workouts
+6. 🍱 Meal prep
+7. ⚖️ Weight loss
+8. 🏋️ Strength training
+9. 🏃 Cardio
+10. 😴 Recovery
+
+</div>
+
+---
+
+#### Step 2: Research Your Audience
+
+<div align="center">
+
+**Where to Look:**
+
+</div>
+
+<div align="left">
+
+- 💬 Comments on your posts
+- 📩 Questions in your DMs
+- 🔍 What competitors' audiences ask
+- 💼 Industry forums
+- 👥 Social media groups
+
+</div>
+
+---
+
+<div align="center">
+
+**Questions to Answer:**
+
+</div>
+
+<div align="left">
+
+- 😰 What do they struggle with?
+- ❓ What questions do they have?
+- 👍 What content do they engage with?
+- 🎯 What problems do they face?
+
+</div>
+
+---
+
+<div align="center">
 
 **Example Research:**
+
+</div>
+
+<div align="left">
+
 - "How do I stay motivated to workout?"
 - "What should I eat before/after workouts?"
 - "I don't have time for the gym - help!"
 - "How do I avoid injury?"
 
-**Step 3: Review Your Goals**
+</div>
 
-**Ask yourself:**
-- What do I want to be known for?
-- What drives my business?
-- What content converts to sales?
-- What do I want people to think when they see my name?
+---
+
+---
+
+#### Step 3: Review Your Goals
+
+<div align="center">
+
+**Ask yourself these questions:**
+
+</div>
+
+<div align="left">
+
+- 🎯 What do I want to be known for?
+- 💼 What drives my business?
+- 💰 What content converts to sales?
+- 👤 What do I want people to think when they see my name?
+
+</div>
+
+---
+
+<div align="center">
 
 **Example Goals:**
-- "I want to be known as the go-to person for home workouts"
-- "I want to help busy professionals get fit"
-- "I want to sell my online fitness program"
 
-**Step 4: Choose Your 3-5 Pillars**
+</div>
 
-**The Selection Process:**
+<div align="left">
 
-From your expertise list, audience research, and goals, identify 3-5 topics that:
-- You're passionate about
-- Your audience cares about
-- Support your business goals
-- Are broad enough for variety
+- ✅ "I want to be known as the go-to person for home workouts"
+- ✅ "I want to help busy professionals get fit"
+- ✅ "I want to sell my online fitness program"
 
-**Real Example (Fitness Coach):**
+</div>
 
-**Expertise:** Workouts, nutrition, motivation, injury prevention, home workouts
-**Audience Wants:** Quick workouts, meal prep, staying motivated, avoiding injury
-**Goals:** Be known for home workouts, help busy professionals
+---
+
+#### Step 4: Choose Your 3-5 Pillars
+
+<div align="center">
+
+**The Selection Process**
+
+</div>
+
+From your expertise list, audience research, and goals, identify **3-5 topics** that:
+
+<div align="left">
+
+- ❤️ You're passionate about
+- 👥 Your audience cares about
+- 🎯 Support your business goals
+- 📚 Are broad enough for variety
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Real Example: Fitness Coach
+
+</div>
+
+<div align="left">
+
+**Expertise:**
+- Workouts
+- Nutrition
+- Motivation
+- Injury prevention
+- Home workouts
+
+**Audience Wants:**
+- Quick workouts
+- Meal prep
+- Staying motivated
+- Avoiding injury
+
+**Goals:**
+- Be known for home workouts
+- Help busy professionals
+
+</div>
+
+---
+
+<div align="center">
 
 **Selected Pillars:**
-1. **Home Workouts** - Quick, effective routines
-2. **Nutrition for Busy People** - Simple meal prep and eating tips
-3. **Motivation & Mindset** - Staying consistent and overcoming obstacles
-4. **Injury Prevention** - Safe exercise practices
-5. **Success Stories** - Client transformations and wins
+
+</div>
+
+<div align="left">
+
+1. **🏠 Home Workouts**
+   - Quick, effective routines
+
+2. **🥗 Nutrition for Busy People**
+   - Simple meal prep and eating tips
+
+3. **💪 Motivation & Mindset**
+   - Staying consistent and overcoming obstacles
+
+4. **🛡️ Injury Prevention**
+   - Safe exercise practices
+
+5. **🌟 Success Stories**
+   - Client transformations and wins
+
+</div>
+
+---
+
+<div align="center">
 
 **Why These Work:**
-- They're specific but not too narrow
-- They address audience needs
-- They support business goals
-- They allow for variety
 
-**Step 5: Validate Your Pillars**
+</div>
+
+<div align="left">
+
+- ✅ They're specific but not too narrow
+- ✅ They address audience needs
+- ✅ They support business goals
+- ✅ They allow for variety
+
+</div>
+
+---
+
+---
+
+#### Step 5: Validate Your Pillars
+
+<div align="center">
 
 **Test Questions:**
-- Can I create 10+ posts about each pillar? (If yes, it's broad enough)
-- Does my audience care about this? (Check engagement)
-- Am I excited to talk about this? (If not, you'll burn out)
-- Does this support my business? (If not, reconsider)
 
-**If a pillar fails these tests, replace it.**
+</div>
+
+<div align="left">
+
+- ✅ Can I create 10+ posts about each pillar? *(If yes, it's broad enough)*
+- 👥 Does my audience care about this? *(Check engagement)*
+- ❤️ Am I excited to talk about this? *(If not, you'll burn out)*
+- 💼 Does this support my business? *(If not, reconsider)*
+
+</div>
+
+<div align="center">
+
+> ⚠️ **Important:** If a pillar fails these tests, replace it.
+
+---
+
+</div>
+
+---
 
 ### Using Topic Expansion (Turning One Idea Into Many)
 
+<div align="center">
+
 Once you have your pillars, you need to create lots of content about each one. That's where topic expansion comes in.
+
+---
+
+</div>
 
 #### Method 1: Question-Based Expansion
 
+<div align="center">
+
 **The Process:**
+
+</div>
+
 Take your pillar and turn it into questions your audience asks.
+
+---
+
+<div align="center">
 
 **Example Pillar:** "Home Workouts"
 
 **Questions to Create:**
-- "How do I create a home workout routine?"
-- "What equipment do I need for home workouts?"
-- "How long should home workouts be?"
-- "Can I get results with just bodyweight exercises?"
-- "What's the best time to do home workouts?"
-- "How do I stay motivated to workout at home?"
-- "What are the best home workout apps?"
-- "How do I progress my home workouts?"
 
-**Result:** 8 post ideas from one pillar!
+</div>
+
+<div align="left">
+
+- ❓ "How do I create a home workout routine?"
+- 🏋️ "What equipment do I need for home workouts?"
+- ⏱️ "How long should home workouts be?"
+- 💪 "Can I get results with just bodyweight exercises?"
+- 🕐 "What's the best time to do home workouts?"
+- 🎯 "How do I stay motivated to workout at home?"
+- 📱 "What are the best home workout apps?"
+- 📈 "How do I progress my home workouts?"
+
+</div>
+
+<div align="center">
+
+### 🎉 Result: 8 post ideas from one pillar!
+
+---
+
+</div>
+
+---
 
 #### Method 2: Angle Variations
 
+<div align="center">
+
 **The Process:**
+
+</div>
+
 Look at your pillar from different angles.
+
+---
+
+<div align="center">
 
 **Example Pillar:** "Nutrition for Busy People"
 
 **Different Angles:**
-- **Beginner angle:** "Nutrition basics for busy beginners"
-- **Advanced angle:** "Advanced meal prep strategies"
-- **Mistakes angle:** "Common nutrition mistakes busy people make"
-- **Tools angle:** "Apps and tools that make nutrition easier"
-- **Time-saving angle:** "5-minute meal prep ideas"
-- **Budget angle:** "Eating healthy on a budget when you're busy"
 
-**Result:** 6 different angles = 6 different posts!
+</div>
+
+<div align="left">
+
+- 🟢 **Beginner angle:** "Nutrition basics for busy beginners"
+- 🔵 **Advanced angle:** "Advanced meal prep strategies"
+- 🔴 **Mistakes angle:** "Common nutrition mistakes busy people make"
+- 🛠️ **Tools angle:** "Apps and tools that make nutrition easier"
+- ⚡ **Time-saving angle:** "5-minute meal prep ideas"
+- 💰 **Budget angle:** "Eating healthy on a budget when you're busy"
+
+</div>
+
+<div align="center">
+
+### 🎉 Result: 6 different angles = 6 different posts!
+
+---
+
+</div>
 
 #### Method 3: Format Variations
 
@@ -639,13 +861,13 @@ Take the same topic, different formats.
 
 **Result:** 6 posts in different formats!
 
-#### Using Platform Features for Topic Expansion
+#### Using ViralWave Studio Features for Topic Expansion
 
 **How It Works:**
-1. Go to topic expansion feature
+1. Go to topic expansion feature in [ViralWave Studio](https://viralwavestudio.com)
 2. Enter your pillar: "Home Workouts"
 3. Click "Expand" or "Generate Ideas"
-4. Platform creates multiple angles and formats
+4. [ViralWave Studio](https://viralwavestudio.com) creates multiple angles and formats
 5. Review and select the best ones
 
 **Example Output:**
@@ -733,7 +955,7 @@ Try these this week and let me know which one helps the most!"
 ### Brand Authority Features (Visual Consistency)
 
 **What It Does:**
-Automatically adds your face, logo, or brand elements to every post. This builds recognition - people start to recognize your brand instantly.
+Upload 3 images of yourself, and every time the AI post generator creates posts with images, it will automatically place your images in each generated image. This builds recognition - people start to recognize your brand instantly because your personal images appear in every AI-generated post image.
 
 #### Setting Up Brand Authority (Detailed Walkthrough)
 

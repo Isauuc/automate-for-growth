@@ -524,7 +524,7 @@ Transformation and growth theme. 15 seconds."
    - Use consistent visual style
    - Include brand colors
    - Maintain tone across videos
-   - Use Brand Authority feature
+   - Use Brand Authority feature (upload 3 images of yourself - they'll be automatically placed in AI-generated content)
 
 ## Video Content Calendar
 

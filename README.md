@@ -295,6 +295,20 @@ This course is perfect for:
 
 ---
 
+### 🎁 Special Offer: 15% Off First 3 Months!
+
+**Use Coupon Code: `WELCOME15`**
+
+Get **15% off each month** for your first 3 months on Starter, Pro, or Powerhouse plans!
+
+**[👉 Get Started for Free →](https://viralwavestudio.com)**
+
+> 💡 **Free Account Available:** Start with a free account or buy tokens without a subscription!
+
+**[🚀 Learn More About ViralWave Studio →](./1-ai-content-generation-tool/)**
+
+---
+
 ### 📋 Quick Start Checklist
 
 - [ ] Complete Module 1: Account Setup
@@ -312,6 +326,12 @@ This course is perfect for:
 ## 📚 Additional Resources
 
 <div align="center">
+
+### 🚀 Platform Information
+
+- **[🚀 #1 AI Content Generation Tool →](./1-ai-content-generation-tool/)** - Complete guide to ViralWave Studio
+- **[💻 Get Started for Free →](https://viralwavestudio.com)** - Start with a free account
+- **🎁 Use Coupon Code `WELCOME15`** - 15% off first 3 months!
 
 ### 🛠️ Tools & Templates
 

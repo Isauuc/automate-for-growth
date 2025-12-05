@@ -450,7 +450,7 @@ Mike, a business coach, wrote one blog post: "10 Productivity Tips for Entrepren
 
 **Featured Image Features:**
 - Auto-generated suggestions
-- Brand Authority integration
+- Brand Authority integration (your 3 uploaded images automatically placed in AI-generated blog images)
 - Platform optimization
 - Consistent styling
 

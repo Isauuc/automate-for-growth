@@ -51,7 +51,9 @@ Think of an API like a waiter at a restaurant:
 
 An API lets your applications "talk" to the platform and get video generation services.
 
-**API Documentation:** https://viralwavestudio.com/sora-api
+**API Documentation:** [https://viralwavestudio.com/sora-api](https://viralwavestudio.com/sora-api)
+
+**Main Platform:** [https://viralwavestudio.com](https://viralwavestudio.com)
 
 **Key Benefits:**
 

@@ -401,6 +401,7 @@ This course covers everything from basic account setup to advanced API integrati
 - **📖 [Main Course README](./README.md)** - Course overview and navigation
 - **📁 [Resources Section](./resources/)** - Templates, checklists, code examples
 - **📘 [Module Guides](./)** - Individual module documentation
+- **🚀 [#1 AI Content Generation Tool](./1-ai-content-generation-tool/)** - Complete guide to ViralWave Studio
 
 ### 💡 Help & Troubleshooting
 

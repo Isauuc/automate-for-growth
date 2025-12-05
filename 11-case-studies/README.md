@@ -380,10 +380,11 @@ Sarah decided to use content automation. Here's what she did:
 ### Using Brand Authority Feature
 
 **Implementation:**
-- Uploaded 3 brand images
+- Uploaded 3 personal images of themselves
+- Every time AI generated a post with an image, their images were automatically placed in that image
 - Set to every post
 - Maintained for 6 months
-- Consistent application
+- Consistent application across all AI-generated post images
 - Regular optimization
 
 **Results:**
